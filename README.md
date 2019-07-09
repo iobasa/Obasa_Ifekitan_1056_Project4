@@ -18,9 +18,11 @@ cd to the directory of your choice, clone, and hack away!
 
 ## Authors
 
-Contributors names and contact info
+Contributors name and contact info
 
 Ifekitan Obasa
+
+[email](i_obasa@fanshaweonline.ca)
 
 ## Version History
 
